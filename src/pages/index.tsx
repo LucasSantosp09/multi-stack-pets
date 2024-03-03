@@ -5,7 +5,7 @@ function MeuComponente() {
 export default function Home() {
   return (
     <>
-      <div>TESTE</div>
+      <div>teste</div>
     </>
   );
 }
